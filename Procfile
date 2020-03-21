@@ -1,1 +1,2 @@
-web: java -cp target/classes:target/dependency/* com.jersey.atividade.users.Main
+web: java -cp target/classes:target/dependency/* ${package}.com.jersey.atividade.users.Main
+
